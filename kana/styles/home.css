@@ -1,0 +1,22 @@
+Header{
+    height: 80px;
+    width: 100%;
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+  }
+ul{
+  margin-top: 13px;
+  display: flex;
+  text-align: center;
+  list-style-type: none;
+  margin-right: 50px;
+  color: brown;
+
+}
+li{
+  margin: 20px;
+}
+.logo{
+  margin-left: 15px;
+}
